@@ -6,4 +6,4 @@ u(x = 0, t) = sin(t), u(x = 1, t) = 1.0. (2)
 And the initial condition is given by
 u(x, t = 0) = 0.5. 
 1.1 Python code to simulate the temperature field with a time integration scheme 
-1.2 Python code to to simulate the temperature field (15 points) using the time spectral method
+1.2 Python code to to simulate the temperature field using the time spectral method
